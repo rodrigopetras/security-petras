@@ -14,3 +14,8 @@ Universal Security Toolkit Installer (Kali-style)
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/USER/security-petras/main/install.sh)
+
+## COMO RODAR AGORA
+
+chmod +x security-petras.py
+python3 security-petras.py
